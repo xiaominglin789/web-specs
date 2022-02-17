@@ -2,7 +2,7 @@
 
 
 ## 2022年02月17日16:29:58
-web新项目应配置:
+web新项目应配置基础的规范约束:
 - eslint                     # 对js/ts/jsx/tsx语法检查
 - prettier                   # 对项目代码风格的统一格式化
 - commitizen                 # 提供指令选项的工具,配合 husky+commintlint一起使用
