@@ -38,3 +38,12 @@ git clone https://github.com/xiaominglin789/web-specs.git
 ## web项目编程规范方案（vue项目初始化规范方案）
 - eslint + prettier + commitizen + husky + commintlint + lint-staged
 [web项目编程规范方案](https://github.com/xiaominglin789/web-specs/web-project-init-spec/README.md)
+
+
+## 不同平台不同版本的请求封装
+- vue-js-axios
+- vue-ts-axios
+- 微信小程序reqeust
+- uniapp-request
+- ...
+[请求封装方案](https://github.com/xiaominglin789/web-specs/request-beta)
